@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99acea36399924e47b482ed2fa453cea, type: 3}
+  m_Name: shirt
+  m_EditorClassIdentifier: 
+  ID: 9
+  Name: Shirt
+  Rank: 1
+  UnitPrice: 90
+  Desception: a cheap thing
+  Category: OptionList3
+  Image: {fileID: 21300000, guid: fa952c0043a5e154cbd089d1a3f7e392, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99acea36399924e47b482ed2fa453cea, type: 3}
+  m_Name: gems
+  m_EditorClassIdentifier: 
+  ID: 4
+  Name: Gems
+  Rank: 3
+  UnitPrice: 650
+  Desception: Gem is Expensive
+  Category: OptionList2
+  Image: {fileID: 21300000, guid: 85692213ae65bc54ca80144a80f596e4, type: 3}
